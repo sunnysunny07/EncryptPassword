@@ -1,0 +1,2 @@
+# EncryptPassword
+Encrypt a Password
